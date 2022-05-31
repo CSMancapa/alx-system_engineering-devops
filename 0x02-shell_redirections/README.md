@@ -1,2 +1,2 @@
 #!/bin/bash
-writ the results of a command into a file
+Script that duplicates the last line
