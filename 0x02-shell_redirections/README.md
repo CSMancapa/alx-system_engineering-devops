@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Display the first ten lines of a file
+echo A script that displays the third line of a file
