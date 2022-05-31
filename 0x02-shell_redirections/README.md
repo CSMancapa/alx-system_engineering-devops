@@ -1,2 +1,2 @@
 #!/bin/bash
-Script that duplicates the last line
+Deleting regular files with a .js extension
