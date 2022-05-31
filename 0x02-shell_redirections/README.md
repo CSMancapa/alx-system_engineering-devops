@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Display the content of two files
+echo Display the last ten lines of a file
