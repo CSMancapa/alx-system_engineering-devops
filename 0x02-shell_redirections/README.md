@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Display contents of a file
+echo Display the content of two files
