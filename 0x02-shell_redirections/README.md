@@ -1,2 +1,2 @@
 #!/bin/bash
-Deleting regular files with a .js extension
+count number of directories and sub-directories
