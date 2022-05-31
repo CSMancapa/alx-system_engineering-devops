@@ -1,2 +1,2 @@
 #!/bin/bash
-echo A script that displays a confused smiley
+echo Display contents of a file
