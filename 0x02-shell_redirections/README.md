@@ -1,2 +1,2 @@
 #!/bin/bash
-echo A script that displays the third line of a file
+A shell script that creates a file
