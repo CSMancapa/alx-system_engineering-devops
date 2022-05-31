@@ -1,2 +1,2 @@
 #!/bin/bash
-A shell script that creates a file
+writ the results of a command into a file
