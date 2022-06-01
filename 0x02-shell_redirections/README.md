@@ -1,2 +1,2 @@
 #!/bin/bash
-Display lines containing the pattern "root" from the file /etc/passwd
+display the number of line that contain the pattern "bin" in the file /etc/passwd
