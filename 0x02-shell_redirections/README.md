@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that reverses its input
+Display all users and their home directories, sorted by users
