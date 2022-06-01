@@ -1,2 +1,2 @@
 #!/bin/bash
-displays the ten newest files in the directory
+display 10 newest files in current directory
