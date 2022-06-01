@@ -1,2 +1,2 @@
 #!/bin/bash
-script that lists environment variables
+script that lsits all local variables and environmental variables, and functions
