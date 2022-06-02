@@ -1,2 +1,2 @@
 #!/bin/bash
-script that lsits all local variables and environmental variables, and functions
+a script that creates a new local variable
