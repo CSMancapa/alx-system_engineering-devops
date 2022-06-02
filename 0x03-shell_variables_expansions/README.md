@@ -1,2 +1,2 @@
 #!/bin/bash
-script that displays the result of BREATH to the power LOVE
+Create a script that prints all possible combinations of two letters, except oo
